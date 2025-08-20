@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.23.12",
+    "react-simple-typewriter": "^5.0.1",
+    "react-tsparticles": "^2.12.2",
+    "react-typed": "^2.0.12",
+    "tsparticles": "^3.9.1"
+  }
+}
